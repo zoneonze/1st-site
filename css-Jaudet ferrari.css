@@ -1,0 +1,85 @@
+
+
+h1 {
+   width:auto;
+   padding : 10px;
+   font-family : calibri;
+   color : #ffffff;
+   font-size : 3em;	
+   text-align: center;
+   text-decoration: underline overline #FEC800;
+   text-shadow:0 0 3px #FEC800;
+   background-color: #000000;
+   border : solid 1px #FEC800;
+}
+
+h2 {
+   width:1200px;
+   margin: 10px auto;
+   padding : 10px;
+   font-family : cursive;
+   color : #000000	;
+   font-size : 1.5em;	
+   text-align: left;
+   background-color: #FEC800;
+   border : solid 1px #000000;
+}
+
+h3 {
+   width:1200px;
+   margin: 10px auto;
+   padding : 10px;
+   font-family : calibri;
+   font-size : 1.5em;	
+   text-align: right;
+   background-color: #000000; 
+   border : solid 1px #FFFFFF;
+}
+   
+h4 {
+   font-family:Arial, sans-serif;
+	text-shadow: 0 0 10px white
+}
+
+h5 {
+	text-align:center;
+	font-size: 15;
+	width:1200px;
+	margin: 10px auto;
+	padding : 10px;
+	background-color: #FEC800;
+	opacity:0.75; 
+}
+h6 {
+	text-align:center;
+	opacity:0.98;
+}
+#corps {
+	width:1200px;
+	margin: 10px auto;
+	padding : 10px;
+	background-color: #dfdfdf;
+	opacity:0.75; 
+}
+
+img1 {
+	margin:57px;
+}
+
+img2 {
+	margin:115px;
+}
+
+body {
+	background-image: url("https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/a/9/a/a9ad8a6dab_118683_ordinateur-quantique-erik-lucero.jpg"), url("http://www.aslaa.org/wp-content/uploads/2014/11/IBM-logo.jpg");
+	background-color: #FFFFFF;
+	background-size:1990px,1200px;
+	background-position:top,bottom;
+	background-repeat:repeat-x,repeat;
+	
+}
+
+a {
+  color: #FFFFFF;
+  background-color: black
+}
